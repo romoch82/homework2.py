@@ -1,0 +1,2 @@
+name = "Domzadanie"
+print(name)
