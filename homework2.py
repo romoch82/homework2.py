@@ -1,8 +1,7 @@
-name = "Pyton"
-print (name)
-print("всего_задач")
-print (12)
-print ("затрачено_часов")
-print (1.5)
-print("среднее_время_выполнения")
-print (1.5 / 12)
+first_name = "Pyton ,"
+two_name = "всего_задач"
+three_name = 12
+four_name = ", затрачено_часов"
+five_name = 1.5
+six_name = ", среднее_время_выполнения"
+print(first_name, two_name, three_name, four_name, five_name, six_name, five_name/three_name)
